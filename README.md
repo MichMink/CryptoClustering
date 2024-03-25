@@ -1,9 +1,10 @@
-##CryptoClustering
-##About:
+## CryptoClustering
+## About:
 
 In this Python-based challenge, we utilize unsupervised learning techniques to predict whether cryptocurrencies are influenced by 24-hour or 7-day price changes. Leveraging clustering algorithms and data preprocessing libraries, we analyze historical cryptocurrency data, identifying patterns and trends. By examining features like trading volume and market capitalization, we aim to group cryptocurrencies based on their price change behaviors, potentially revealing distinct clusters associated with short-term price movements. Evaluation metrics and visualization aid in interpreting results, offering valuable insights for investors and traders navigating the volatile cryptocurrency market landscape.
 
-##Insights: What is the impact of using fewer features to cluster the data using K-Means?
+## Insights: 
+What is the impact of using fewer features to cluster the data using K-Means?
 
 - Simplification: Fewer features simplify data, aiding cluster interpretation.
 - Reduced Dimensionality: Less features reduce computational load, especially for large datasets.
